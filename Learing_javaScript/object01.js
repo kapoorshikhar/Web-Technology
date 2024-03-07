@@ -1,4 +1,4 @@
- Const student ={
+ const student ={
     name: "John",
     age: 25,
     isPass: true,
